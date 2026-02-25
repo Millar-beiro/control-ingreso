@@ -1,0 +1,13 @@
+{
+  "name": "control-ingreso",
+  "version": "1.0.0",
+  "description": "Sistema de control de asistencia - Millar-beiro",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": ["asistencia", "control", "supervisores"],
+  "author": "Millar-beiro",
+  "license": "MIT"
+}
